@@ -12,7 +12,7 @@
 - 💻 Languages: JavaScript, TypeScript, C, C++
 - 🌐 Frontend: React.js, Next.js, Tailwind CSS, HTML, CSS,
 - ⚙️ Tools: Git, GitHub, VS Code
-- 💻 Databases: SQL, MongoDB
+- 💻 Databases: SQL, MongoDB, Docker
 
 ## 📈 GitHub Stats
 
