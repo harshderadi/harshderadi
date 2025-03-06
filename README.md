@@ -3,25 +3,22 @@
 ## 🚀 About Me
 
 - 🎓 Final-year CSE student at Sage University, Indore
-- 💻 React.js Intern | Frontend Developer
+- 💻 Software Developer | Frontend Developer
 - 🔥 Passionate about web development and problem-solving
 - 📍 Based in India
 
 ## 🛠 Tech Stack
 
-- 💻 Languages: JavaScript, TypeScript, HTML, CSS
-- 🌐 Frontend: React.js, Next.js, Tailwind CSS
+- 💻 Languages: JavaScript, TypeScript, C, C++
+- 🌐 Frontend: React.js, Next.js, Tailwind CSS, HTML, CSS,
 - ⚙️ Tools: Git, GitHub, VS Code
+- 💻 Databases: SQL, MongoDB
 
 ## 📈 GitHub Stats
 
 ![Harsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshderadi&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshderadi&layout=compact&theme=radical)
-
-## 📌 Projects
-
-- [Developer Portfolio](https://github.com/harshderadi/developer-portfolio) - A sleek portfolio template for developers
 
 ## 📫 Connect With Me
 
